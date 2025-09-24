@@ -197,7 +197,7 @@
 
 ### **Most Used Commands:**
 ```
-Ctrl+N         → File explorer
+Space+ee         → File explorer
 Space+ff       → Find files
 Space+fs       → Search in files
 K              → Documentation
